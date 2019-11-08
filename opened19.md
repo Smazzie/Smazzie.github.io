@@ -1,6 +1,5 @@
-layout: page
-title: "OpenEd19, OER, commercialization, extraction, and labor"
-permalink: /opened19/
+#OpenEd19, OER, commercialization, extraction, and labor"
+
 
 OER is a seemingly achievable way to make a huge financial impact on affordability in higher education. However, the same forces that have increased the cost of college attendance are still in place. Without taking the nature of academic labor practices into account, OER advocates are in danger of replacing one inequitable system (the high cost of attendance and subsequent debt of students) with another, which is the extraction of creative and care labor by publishers extracting OER, capturing markets with inclusive access deals, and I suspect eventually raising prices back to “what the market will bear”. That is to say, what student loans will  bear. And we will be back in the same place we started. 
 Labor is an extraordinary investment, and yet sometimes is entirely left out of the equation in OER discussions, if not dismissed entirely. I undertook an extensive survey of the scattered references in the literature to affordability labor issues to find out what trends are emerging and what narratives already exist as a way to set the stage for future research. Presenting at OpenEd19 gave me a chance to receive feedback and seek collaborators in this future work, and surprisingly find what seemed to hit a nerve. More on that below.
